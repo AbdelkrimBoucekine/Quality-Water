@@ -4,8 +4,10 @@ Know the quality of the water with a turdidity sensor and display it on a HMI
 
 
 ** **LIEN INTERESSANT** **
-
+https://www.youtube.com/watch?v=POsJc-tM2ZI&ab_channel=DFRobot
 https://github.com/Ricardosgeral/relier
+
+
 
 ** **Utilisation de l'IHM** **
 
